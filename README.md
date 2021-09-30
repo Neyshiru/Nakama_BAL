@@ -25,5 +25,4 @@
     - Dans un lycée, les livres scolaires étant à la charge des familles et pour éviter à ces dernières d'avoir à les acheter chaque années, une association organise une bourse aux livres (BAL). Cette association souhaite automatiser le système de location de livres, de la gestion de stock aux moyens de payements. 
 
 ## Liens vers les autres md:
-![Lien vers les scénarios concrets](scénarios_concrets/Readme.md "Scénarios concrets")
-[a relative link](scénarios_concrets/Readme.md)
+[Lien vers les scénarios concrets](scénarios_concrets/Readme.md "Scénarios concrets")
