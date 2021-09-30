@@ -1,0 +1,10 @@
+Acheter des livres.
+
+L'élève paye le(s) livre(s) et l'application supprime le(s) livre(s) de l'inventaire des stocks.
+
+
+Acteurs --> Cas d'utilisation:
+
+Bob   --> achète des livres.
+Application --> indique le prix des livres.
+            --> supprime les livres de l'inventaire.

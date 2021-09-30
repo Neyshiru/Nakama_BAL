@@ -1,0 +1,13 @@
+Echanger des livres après un changement d'orientation.
+
+Bob change d'orientation en cours d'année. Il se rend au local. Alice l'acceuil, et lui demande son nom et sa classe. Elle recherche sa fiche. Bob lui rend certains livres. Alice indique quels livres ont été rendu. Bob lui indique quels livres il a besoin d'emprunter. Alice inscrit quels livres ont été empruntés dans l'application.
+
+
+Acteurs --> Cas d'utilisation:
+
+Bob   --> rendre des livres.
+Alice --> rechercher la fiche d'un élève.
+      --> indique quels livres sont rendus.
+      --> indique quels livres sont empruntés.
+Application --> indique quels livres sont rendus.
+            --> indique quels livres sont empruntés.

@@ -1,0 +1,10 @@
+Livre indisponible
+
+l'élève reçoit une date où le(s) livre(s) voulu sera/seront disponibles pour venir le(s) prendre.
+
+
+Acteurs --> Cas d'utilisation:
+
+Bob   --> veut emprunter des livres.
+
+Application --> indique quand les livres seront disponibles.

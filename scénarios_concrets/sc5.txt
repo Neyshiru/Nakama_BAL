@@ -1,0 +1,4 @@
+Indiquer le prix des livres.
+
+Lorsque l'application reçoit la liste des livres qui vont être empruntés, elle calcule le coût total des livres afin de demander une caution.
+

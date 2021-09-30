@@ -1,0 +1,6 @@
+Inscription des eleves
+
+Bob arrive en seconde au lycée. Pour participer à la bourse aux livres il doit s'identifier. Il s'inscrit sur l'application en fournissant ses informations. Bob peut maintenant utiliser la bours aux livres pour emprunter des livres.
+
+Inscrire un eleve
+Constituer une liste de livres necessaires
