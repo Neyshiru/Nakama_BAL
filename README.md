@@ -26,3 +26,4 @@
 
 ## Liens vers les autres md:
 ![Lien vers les scénarios concrets](scénarios_concrets/Readme.md "Scénarios concrets")
+[a relative link](scénarios_concrets/Readme.md)
