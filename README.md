@@ -31,3 +31,7 @@ Dans un lycée, les livres scolaires étant à la charge des familles et pour é
 ## Liens vers les autres md:
 
 [Lien vers les scénarios concrets](scénarios_concrets/Readme.md "Scénarios concrets")
+
+[Lien vers le cahier de paillasse](Cahier_de_paillasse.md "Cahier de paillasse")
+
+[Lien vers les cas d'utilisation](Cas_Utilisations/CUs.md "Cas d'utilisation")
